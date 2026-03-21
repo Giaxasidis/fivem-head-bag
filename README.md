@@ -1,9 +1,9 @@
-## 🎭 FiveM Head Bag Interaction System
+## FiveM Head Bag Interaction System
 
 **Head Bag Interaction System** is a professional, lightweight script for FiveM that allows players to apply or remove head bags on other players via a clean and intuitive menu. Perfect for roleplay servers, it provides realistic interactions, visual overlays, and full client-server management for a smooth and safe gameplay experience.
 This script is built using the **ESX framework**, is modular, easy to configure, and fully extendable for future features.
 
-## ✨ Features
+## Features
 
 * [x] Apply a head bag to nearby players using an in-game menu.
 * [x] Remove head bags from players who already have one applied.
@@ -13,7 +13,7 @@ This script is built using the **ESX framework**, is modular, easy to configure,
 * [x] In-game notifications for professional player feedback.
 * [x] Fully modular design for easy extension and maintenance.
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Detect Nearby Players:**
    The script detects players within a 2-meter radius and allows applying or removing a head bag.
@@ -30,7 +30,7 @@ This script is built using the **ESX framework**, is modular, easy to configure,
 5. **Persistent Handling:**
    The head bag is automatically removed on player respawn (`playerSpawned`) to prevent glitches or ghost objects.
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -49,20 +49,20 @@ start headbag_system
 
 4. Restart the server or the resource to apply changes.
 
-## 🔎 Usage
+## Usage
 
 * Use the item `headbag` to open the interaction menu.
 * Select whether to apply or remove the head bag from nearby players.
 * The NUI overlay appears automatically when a head bag is applied.
 * Fully client-server synchronized for reliable gameplay.
 
-## ⚠️ Permissions & Compatibility
+## Permissions & Compatibility
 
 * No special permissions required.
 * Compatible with any FiveM server using ESX framework.
 * Works perfectly in multiplayer roleplay environments.
 
-## 📣 Contributing
+## Contributing
 
 Contributions, bug reports, and feature requests are welcome! Please:
 
@@ -71,13 +71,13 @@ Contributions, bug reports, and feature requests are welcome! Please:
 * Submit pull requests with detailed explanations.
 * Report issues via GitHub Issues.
 
-## 📋 License
+## License
 
 This project is licensed under the **Apache-2.0 License**.   
 It allows full usage, modification, and distribution with minimal restrictions.
 See [LICENSE](./LICENSE) for full details.
 
-## ✒️ Author
+##  Author
 
 Created and maintained by **KaloudasDev**.  
-If you find this project useful, a ⭐️ star on the repository would be greatly appreciated!
+If you find this project useful, a star star on the repository would be greatly appreciated!
