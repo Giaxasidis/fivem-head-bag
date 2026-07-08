@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Kaloudas'
+author 'Giaxasidis'
 description 'Head Bag System'
 version '1.0.0'
 
