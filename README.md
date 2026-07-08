@@ -79,5 +79,5 @@ See [LICENSE](./LICENSE) for full details.
 
 ##  Author
 
-Created and maintained by **KaloudasDev**.  
+Created and maintained by **Giaxasidis**.  
 If you find this project useful, a star star on the repository would be greatly appreciated!
